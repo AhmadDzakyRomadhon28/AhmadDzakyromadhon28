@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World I'am Ahmad Dzaky Romadhon⚡👨‍💻🔒💻📊🤖
 
 <!--
 **AhmadDzakyRomadhon28/AhmadDzakyromadhon28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Student In **Nurul Fikri** 
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com) Framework
+
+![I'am Programmer](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2t3NHI5a2xudnNiOHE3cDk5dHlmaXI0MDRnbng1N2owNTY2dGh6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MT5UUV1d4CXE2A37Dg/giphy.gif)
