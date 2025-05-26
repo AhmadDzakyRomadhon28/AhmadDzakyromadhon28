@@ -69,3 +69,27 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=AhmadDzakyRomadhon28&icon=8&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://raw.githubusercontent.com/AhmadDzakyRomadhon28/AhmadDzakyRomadhon28/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AhmadDzakyRomadhon28/AhmadDzakyRomadhon28/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AhmadDzakyRomadhon28/AhmadDzakyRomadhon28/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AhmadDzakyRomadhon28/AhmadDzakyRomadhon28/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbvUvvw5lhatV99L2rC-dRXpLGEyM0SJQZJPEP2gtFxxsi9b3sIvCjtARGvy4TdcYaNpHyUrE2d5hB7rgEmdMak_2NMZJyzEXRgQZXx6Yj3Xmpttp8xksIRKZmm17vzrH7Xbp-kyYC-0/s0/FC_Barcelona_flag.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AhmadDzakyRomadhon28/count.svg?"  />
+</div>
+
+###
